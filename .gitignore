@@ -1,0 +1,6 @@
+*/cnc/*
+*.sch-bak
+*.pcb-bak
+*-cache
+_autosave*
+*-cache.lib
